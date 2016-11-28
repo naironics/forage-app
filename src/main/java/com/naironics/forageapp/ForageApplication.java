@@ -13,9 +13,9 @@ public class ForageApplication {
 		SpringApplication.run(ForageApplication.class, args);
 	}
 
-	@RequestMapping(path = "/")
+	/*@RequestMapping(path = "/")
     	public String hello() {
         	return "Hello from Forage App";
-    	}
+    	}*/
 
 }
